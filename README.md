@@ -1,6 +1,6 @@
 # Sinan's Salt Fields · 신안군 천일염전
 
-An interactive, single-page data story about the solar salt farms (천일염전) of Sinan-gun, Jeollanam-do, South Korea. It maps the county's salt farms by eup/myeon (township) for every year with published figures, from 2018 to 2025. It then sets them against Jeollanam-do and national records going back to 1990.
+An interactive, single-page data story about the solar salt farms (천일염전) of Sinan-gun, Jeollanam-do, South Korea. It maps the county's salt farms by eup/myeon (township) for every year with published figures, from 2018 to 2025. Built with Claude Code. 
 
 Every number on the page traces to a cited source. Nothing is interpolated or estimated, and missing values are shown as missing, never as zero.
 
