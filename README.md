@@ -9,7 +9,7 @@ Every number on the page traces to a cited source. Nothing is interpolated or es
 There is no build step. The page is one HTML file with the data and map geometry embedded.
 
 - **Locally:** download or clone the repository and open `index.html` in a browser. An internet connection is needed for the JavaScript libraries and web fonts, which load from public CDNs.
-- **GitHub Pages:** in the repository settings, open **Pages** and choose **Deploy from a branch**, with the branch set to `main` and the folder to `/ (root)`. The page will be served at `https://<user>.github.io/<repository>/`.
+- **GitHub Pages:** https://awesomearth.github.io/Sinan-Salt-Farm-Map/. 
 
 ## What the page shows
 
